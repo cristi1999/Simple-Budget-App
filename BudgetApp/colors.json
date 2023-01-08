@@ -1,0 +1,14 @@
+{
+	"ColorTheme" : {
+		"TransactionWidgetBackground": "#2c7da0",
+		"TransactionWidgetLabels": "#000341",
+		"TransactionWidgetIncome": "#086902",
+		"TransactionWidgetExpense":"#a51003",
+		"OperationsWidgetColor": "#82a3ff",
+		"TitleColor": "#0a0353",
+		"SpecialColor": "#11016d",
+		"MenuColor": "#2a4d69",
+		"InfoColor": "#8ba8d6"
+
+	}
+}
